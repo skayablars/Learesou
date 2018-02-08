@@ -1,4 +1,4 @@
-#### Developer Tea
+#### Code Newbie
 
 - S3:E1
 - S1:EP3
