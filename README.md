@@ -72,6 +72,8 @@ Diseño Software
 
 CompSci
 * http://carlcheo.com/compsci
+https://cs50.harvard.edu/
+https://cs50.github.io/games/assignments/
 
 APIS
 * http://www.restapitutorial.com/
