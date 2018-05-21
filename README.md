@@ -63,8 +63,18 @@ Tools
 * https://icons8.com/
 * https://pixabay.com/es/
 
+Algoritmos y Estructuras de Datos
+* https://visualgo.net/en
+* http://algosaur.us/data-structures-basics/
 
+Diseño Software
+* http://gameprogrammingpatterns.com/
 
+CompSci
+* http://carlcheo.com/compsci
+
+APIS
+* http://www.restapitutorial.com/
 
 Cursos 
 * http://jotajotavm.com/
