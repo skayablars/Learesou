@@ -16,7 +16,12 @@ Learning resources
 * http://goodui.org/evidence/
 * http://www.goodui.org/
 * http://www.productpages.xyz/
-
+* https://designacademy.io/design-fundamentals/
+* https://refactoringui.com/
+* https://uxplanet.org/
+* https://medium.com/@TGines/designing-user-interfaces-for-your-mother-dd45ec50f7b0
+* https://www.drawkit.io/?ref=producthunt
+* https://medium.freecodecamp.org/3-takeaways-from-a-data-driven-design-approach-70c6b52540b
 
 ### Front End
 * https://ponyfoo.com/articles/designing-front-end-components
@@ -77,7 +82,10 @@ Learning resources
 * https://codility.com/programmers/
 * https://projecteuler.net/
 
-Competencias
+### Web Performance
+* https://hostway.com/blog/10-ways-to-make-your-website-load-faster/
+
+### Competencias
 * http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html
 
 ### Tools
@@ -117,6 +125,7 @@ Competencias
 * https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage
 
 ### Cursos 
+* https://web.dev/?ref=producthunt
 * https://www.hacksplaining.com/
 * https://scotch.io/
 * https://hackr.io/ 
