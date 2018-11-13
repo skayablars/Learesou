@@ -1,13 +1,16 @@
 # Learesou
-A github page for all web and software learning resources
+Learning resources
 
-Blogs
+### Blogs
 * http://papermashup.com/
 * http://www.webpagefx.com/web-design/html-ipsum/
 * https://www.cheatography.com/language/en/
 * http://tutorialzine.com/2016/03/the-15-best-material-design-frameworks-and-libraries/
+* https://www.joelonsoftware.com/
+* https://blog.codinghorror.com/
+* https://daylerees.com/php-pandas/
 
-Design
+### Design
 * http://uxcompanion.com/
 * https://hackdesign.org/lessons
 * http://goodui.org/evidence/
@@ -15,7 +18,7 @@ Design
 * http://www.productpages.xyz/
 
 
-Front End
+### Front End
 * https://ponyfoo.com/articles/designing-front-end-components
 * https://webdesign.tutsplus.com/articles/
 * http://www.vanillalist.com/
@@ -25,16 +28,46 @@ Front End
 * https://dribbble.com/
 * http://materialdesignblog.com/
 * http://www.cssauthor.com/
+* https://cssstats.com/
+* http://styleguides.io/
+* https://github.com/airbnb/css
+* https://www.modularscale.com/
+* http://type-scale.com/
+* http://atomicdocs.io/
+* https://www.figma.com/
+* https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
+* https://www.calltoidea.com/
+* https://fontawesome.com/v4.7.0/
+* https://undraw.co/illustrations
+* https://jakearchibald.github.io/svgomg/
+* https://github.com/axios/axios
+* https://www.restapitutorial.com/httpstatuscodes.html
+* https://sdras.github.io/object-explorer/
+* http://wireflow.co/
+* https://github.com/thedaviddias/Front-End-Design-Checklist?ref=producthunt
+* https://github.com/thedaviddias/project-guidelines
+* https://cssguidelin.es/
+* https://github.com/bradfrost/frontend-guidelines-questionnaire
+* https://atlassian.design/guidelines/product/resources/web-product-gui-pack
+* https://sass-guidelin.es/#architecture
+* https://uimovement.com/
+* http://uipatterns.io/
+* https://frontloops.io/?ref=webdesignernews.com
+* https://tommygebru.github.io/ui-camp/
+* https://bento.io/
+* https://www.nateliason.com/blog/become-expert-dreyfus
+* https://thoughtbot.com/upcase?ref=producthunt
+* https://codewithoutrules.com/2018/08/10/always-more-work-to-do/
 
+### Test
+* http://browsershots.org/
+* https://www.mockaroo.com/
+* https://snyk.io/test?utm_source=risingstack_blog
 
-
-Podcast
+### Podcast
 * https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.776w9uei5
 
-Backend
-* https://www.sitepoint.com/26-steps-product-dashboard-design/
-
-Juegos y Practicas Programación
+### Juegos y Practicas Programación
 * https://www.hackerrank.com/
 * https://www.hackerearth.com/
 * https://www.topcoder.com/
@@ -47,7 +80,7 @@ Juegos y Practicas Programación
 Competencias
 * http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html
 
-Tools
+### Tools
 * http://maschek.hu/imagemap/imgmap/
 * http://www.utf8icons.com/
 * https://getmateria.com/
@@ -63,28 +96,41 @@ Tools
 * https://icons8.com/
 * https://pixabay.com/es/
 
-Algoritmos y Estructuras de Datos
+### Algoritmos y Estructuras de Datos
 * https://visualgo.net/en
 * http://algosaur.us/data-structures-basics/
 
-Diseño Software
+### Diseño Software
 * http://gameprogrammingpatterns.com/
 
-CompSci
+### CompSci
 * http://carlcheo.com/compsci
-https://cs50.harvard.edu/
-https://cs50.github.io/games/assignments/
+* https://cs50.harvard.edu/
+* https://cs50.github.io/games/assignments/
 
-APIS
+### APIS
 * http://www.restapitutorial.com/
 
-Cursos 
-* http://jotajotavm.com/
+### Security 
+* https://www.ida.liu.se/~TDP024/labs/hmacarticle.pdf
+* https://lostechies.com/derickbailey/2011/05/24/dont-do-role-based-authorization-checks-do-activity-based-checks/
+* https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage
+
+### Cursos 
 * https://www.hacksplaining.com/
 * https://scotch.io/
-* https://devcode.la/
-
-
-Estado actual de la web (diagrama)
-* https://coggle.it/diagram/Vz9LvW8byvN0I38x
+* https://hackr.io/ 
+* https://github.com/P1xt/p1xt-guides
+* https://techdevguide.withgoogle.com/
+* https://scrimba.com/
+* https://www.rithmschool.com/courses
+* https://vueschool.io/
+* https://medium.com/@andrejsabrickis/responsive-tables-made-simple-4609804ce60b
+* https://uxdesign.cc/design-better-data-tables-4ecc99d23356
+* https://www.interaction-design.org/
+* https://www.coursera.org/learn/learning-how-to-learn
+* https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/
+* https://www.class-central.com/course/coursera-mindshift-break-through-obstacles-to-learning-and-discover-your-hidden-potential-8289
+* http://problemoftheday.co/?ref=producthunt
+* http://smartpuffin.com/questions-to-ask-on-an-interview/
 
