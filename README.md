@@ -81,6 +81,7 @@ Learning resources
 * https://checkio.org/
 * https://codility.com/programmers/
 * https://projecteuler.net/
+* http://coj.uci.cu/index.xhtml 
 
 ### Web Performance
 * https://hostway.com/blog/10-ways-to-make-your-website-load-faster/
