@@ -13,6 +13,7 @@ Learning resources
 ### Design
 * http://uxcompanion.com/
 * https://hackdesign.org/lessons
+* https://www.uplabs.com/
 * http://goodui.org/evidence/
 * http://www.goodui.org/
 * http://www.productpages.xyz/
@@ -22,6 +23,9 @@ Learning resources
 * https://medium.com/@TGines/designing-user-interfaces-for-your-mother-dd45ec50f7b0
 * https://www.drawkit.io/?ref=producthunt
 * https://medium.freecodecamp.org/3-takeaways-from-a-data-driven-design-approach-70c6b52540b
+* https://dribbble.com/
+* https://uimovement.com/
+* http://uipatterns.io/
 
 ### Front End
 * https://ponyfoo.com/articles/designing-front-end-components
@@ -30,7 +34,6 @@ Learning resources
 * http://tutorialzine.com
 * http://flexboxfroggy.com/
 * https://www.javascripting.com/
-* https://dribbble.com/
 * http://materialdesignblog.com/
 * http://www.cssauthor.com/
 * https://cssstats.com/
@@ -55,8 +58,6 @@ Learning resources
 * https://github.com/bradfrost/frontend-guidelines-questionnaire
 * https://atlassian.design/guidelines/product/resources/web-product-gui-pack
 * https://sass-guidelin.es/#architecture
-* https://uimovement.com/
-* http://uipatterns.io/
 * https://frontloops.io/?ref=webdesignernews.com
 * https://tommygebru.github.io/ui-camp/
 * https://bento.io/
